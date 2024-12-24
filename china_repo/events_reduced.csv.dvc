@@ -1,0 +1,5 @@
+outs:
+- md5: 6a9966770412b57eaf5b2791bd7ac1f2
+  size: 191401007
+  hash: md5
+  path: events_reduced.csv
